@@ -10,3 +10,5 @@ install node modules
 
 run the app
 - `npm start`
+
+I have used `settimeout()` before a server call is made,  to give the user a better experience. In production it might be removed.
